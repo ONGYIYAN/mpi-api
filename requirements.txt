@@ -1,5 +1,5 @@
 # Core ML libraries
-tensorflow==2.15.0
+tensorflow==2.16.1
 scikit-learn>=1.2.0
 pandas>=1.5.0
 numpy>=1.21.0
@@ -12,4 +12,5 @@ pickle5>=0.0.11
 h5py>=3.7.0
 
 # For model compatibility
+
 protobuf>=3.20.0
